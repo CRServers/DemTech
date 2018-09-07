@@ -35,7 +35,7 @@ Our Block Producer Candidates will be chosen using this Rating Criteria:
 	eg. Talks, Chats, Hackatons, Conferences, Seminars, Developer Spaces & Retreats, etc.)
 	
 
-# Background: #
+## Background: ##
 I Graduated from Tulane University in 1973 with degrees in Mechanical Engineering and Philosophy.
 I got introduced to computer programing using Fortran IV in IBM framework during my years at Tulane.
 This is where my passion for computer science and all related fields started
