@@ -63,5 +63,4 @@ I was born and live in Costa Rica and remain very active in the local Costa Rica
 
 For more information about me, check my Steemit blog at: https://steemit.com/@cryptohead
 
-CTO: CRServers.com
 Steemit: @cryptohead
