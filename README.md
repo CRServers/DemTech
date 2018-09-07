@@ -56,14 +56,10 @@ I ran a Steem witness for over 3 months starting in 2016.
 I discovered Bitshares in 2015 after the M.T.Gox Exchange collapse and have a lifetime membership.
 After using BitShares and Steem, I have gain lots of respect for Dan Larimer as a outstanding software engineer, thus my attraction to Dan's latest product EOS
 
+I'm a pasionate advocate and reader of Libertarian Philosophy and Austrian Economics  
 I was born and live in Costa Rica and remain very active in the local Costa Rican crypto community.
 
 For more information about me, check my Steemit blog at: https://steemit.com/@cryptohead
 
-
 CTO: CRServers.com
 Steemit: @cryptohead
-
-
-During those year at Tulane, I built my own Ham Radio rig. That was my first experience with descentralized communications.
-
