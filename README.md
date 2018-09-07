@@ -2,7 +2,7 @@
 **"Enpowering the individual beyond trust"**
 
 
-## Philosophy ##
+## Philosophy: ##
 Blockchain Technology and programable peer-to-peer networks like EOS make trust in political and third-party intermediation unnecessary.
 
 **The Democracy Tech Proxy**  will vote for 30 Block producers that exemplify, pursue, and preserve all individual's rights for **Life**, **Liberty**, **Property**, and **Privacy**.
@@ -34,3 +34,5 @@ Our Block Producer Candidates will be chosen using this Rating Criteria:
 	Promotes education and adoption of the EOS network guided by the above principles. 
 	eg. Talks, Chats, Hackatons, Conferences, Seminars, Developer Spaces & Retreats, etc.)
 	
+
+#Background: #
