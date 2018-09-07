@@ -37,7 +37,33 @@ Our Block Producer Candidates will be chosen using this Rating Criteria:
 
 ## Background: ##
 I Graduated from Tulane University in 1973 with degrees in Mechanical Engineering and Philosophy.
-I got introduced to computer programing using Fortran IV in IBM framework during my years at Tulane.
-This is where my passion for computer science and all related fields started
 
-During those year at Tulane I built my own Ham Radio rig. That was my first experience with descentralized communications
+While studying Engineering, I got introduced to computer programing using Fortran IV in IBM frameworks. 
+This is where my passion for computer science and all related fields started.
+
+During those years at Tulane I built my own Ham Radio rig to communicate with family and friends at home. That was my first experience with descentralized communications.
+
+In 1987 I established a software development company: Sistemas Edenia Intenacional. http://www.edenia.com AND programmed business software in dBase and Clipper.
+
+Due to the Y2K problem, we switched our company's focus exclusively to Internet in 1995 when our first domain edenia.com was registered.
+
+We have been in the Internet Hosting and Web development business ever since providing hardware infrastruture and programing to customers worldwide.
+
+In early 2013, I discovered Bitcoin and was heavily bitten by the "Crypto worm".
+We are now running several BTC full nodes, DASH Masternodes, Stellar, Gricoin and ZenCash nodes for customers and ourselves.
+I ran a Steem witness for over 3 months starting in 2016.
+
+I discovered Bitshares in 2015 after the M.T.Gox Exchange collapse and have a lifetime membership.
+After using BitShares and Steem, I have gain lots of respect for Dan Larimer as a outstanding software engineer, thus my attraction to Dan's latest product EOS
+
+I was born and live in Costa Rica and remain very active in the local Costa Rican crypto community.
+
+For more information about me, check my Steemit blog at: https://steemit.com/@cryptohead
+
+
+CTO: CRServers.com
+Steemit: @cryptohead
+
+
+During those year at Tulane, I built my own Ham Radio rig. That was my first experience with descentralized communications.
+
