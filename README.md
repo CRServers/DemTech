@@ -22,7 +22,7 @@ Our Block Producer Candidates will be chosen using this Rating Criteria:
 **- Transparency**    
  	Disclosure of Ownership, Disclosure of use of rewards earned.
 
-**- Infrastructure Control**
+**- Infrastructure Control**    
 	Direct physical access and management of their network's infrastructure. 
 	
 **- DemTech Dapp Development**  
