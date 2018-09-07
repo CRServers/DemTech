@@ -13,25 +13,25 @@ We specifically look for Block Producers that are determined to provide the **In
 
 Our Block Producer Candidates will be chosen using this Rating Criteria:
 
-**- Independent**    
+**- Independent**
 	Self-Funded, No third party involvement, Democracy-driven juristictions
 
 **- GeoPolitical Diversity**  
 	Balanced Geographical location of all 30 chosen candidates.
 
-**- Transparency** 
-	Disclosure of Ownership, Disclosure of use of rewards earned.
+**- Transparency**  
+ 	Disclosure of Ownership, Disclosure of use of rewards earned.
 
-**- Infrastructure Control**  
+**- Infrastructure Control**
 	Direct physical access and management of their network's infrastructure. 
 	
-**- DemTech Dapp Development** 
+**- DemTech Dapp Development**  
 	We prefer Block Producers that produce and promote Democracy Tech Dapps. 
 	eg. Government Transparency and Honesty, Private Voting, Community Organization, Peer-to-peer Interation,
 	Uncensored Free Media, Surveillance Resistance, Privacy Enhancement, etc)     
 
-**- Community Engagement** 
-	Promotes education and adoption of the EOS network guided by the above principles. 
+**-  Community Engagement**  
+ 	Promotes education and adoption of the EOS network guided by the above principles. 
 	eg. Talks, Chats, Hackatons, Conferences, Seminars, Developer Spaces & Retreats, etc.)
 	
 
