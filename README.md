@@ -26,5 +26,5 @@ Our Block Producer Candidates will be chosen using this Rating Criteria:
 	(Government Transparency and Honesty, Voting & Referendum, Community Organization, Peer-to-peer Interation, Uncensored Free Media, Surveillance Resistance, Privacy enhancement, etc)     
 
 - Community Engagement - 
-	Promote education and adoption of the EOS network guided by the above principles. (Talks, chats, hackatons, conferences, dev retreats, etc.)
+	Promote education and adoption of the EOS network guided by the above principles. (Talks, chats, hackatons, conferences, 	dev retreats, etc.)
 	
