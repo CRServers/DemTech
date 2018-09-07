@@ -19,7 +19,7 @@ Our Block Producer Candidates will be chosen using this Rating Criteria:
 **- GeoPolitical Diversity**  
 	Balanced Geographical location of all 30 chosen candidates.
 
-**- Transparency**  
+**- Transparency**    
  	Disclosure of Ownership, Disclosure of use of rewards earned.
 
 **- Infrastructure Control**
