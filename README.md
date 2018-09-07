@@ -13,10 +13,10 @@ We specifically look for Block Producers that are determined to provide the **In
 
 Our Block Producer Candidates will be chosen using this Rating Criteria:
 
-**- Independent**
+**- Independent **   
 	Self-Funded, No third party involvement, Democracy-driven juristictions
 
-**- GeoPolitical Diversity**
+**- GeoPolitical Diversity** 
 	Balanced Geographical location of all 30 chosen candidates.
 
 **- Transparency**
