@@ -16,13 +16,13 @@ Our Block Producer Candidates will be chosen using this Rating Criteria:
 **- Independent**    
 	Self-Funded, No third party involvement, Democracy-driven juristictions
 
-**- GeoPolitical Diversity** 
+**- GeoPolitical Diversity**  
 	Balanced Geographical location of all 30 chosen candidates.
 
-**- Transparency**
+**- Transparency** 
 	Disclosure of Ownership, Disclosure of use of rewards earned.
 
-**- Infrastructure Control** 
+**- Infrastructure Control**  
 	Direct physical access and management of their network's infrastructure. 
 	
 **- DemTech Dapp Development** 
