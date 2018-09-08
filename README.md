@@ -28,7 +28,7 @@ We will pursue "Liquid Democracy" and the candidate list will change as we will 
 	Participation in Testnets, Debuging, Improvements
 	
 **- Democrasy Tech Dapp Development**  
-	Develop and/or promote **Democracy Tech Dapps** 
+	Develop and/or promote **Democracy Tech Dapps**  
 	Eg. Government Transparency & Honesty, Private Voting, Community Organization, Peer-to-peer Interation,
 	Censored-resistant Media,  Surveillance-resistance, Identity & Data Sovereignty, Privacy Enhancement.    
 
