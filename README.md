@@ -9,8 +9,6 @@ Blockchain Technology and programable peer-to-peer networks like EOS make trust 
 
 We aspire to promote an enviroment in EOS that will facilitate the achievement of **"Individual Sovereignty"** for all people of the world.
 
-We will constantly look for Block Producers that are determined to provide the **Infrastructure** , **Tools**, and **Education** necessary to achive such goals using the EOS network.
-
 
 ## Rating Criteria: ##  
 We will pursue "Liquid Democracy" and the candidate list will change as we will periodicaly evaluate all Block Producers that have strong combinations of the following characteristics:
