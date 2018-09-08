@@ -3,12 +3,10 @@
 
 
 ## Philosophy: ##
-Blockchain Technology and programable peer-to-peer networks like EOS make trust in political and third-party intermediation unnecessary. It is now our oportunity to create the infrastructure and code to change the world.
-
-**The Democracy Tech Proxy**  will vote for 30 Block producers that exemplify, pursue, and preserve all individual's rights for **Life**, **Liberty**, **Property**, and **Privacy**.
-
+Blockchain Technology and programable peer-to-peer networks like EOS make trust in political and third-party intermediation unnecessary. It is now we have the oportunity to create the infrastructure and code to make it a reality.
 We aspire to promote an enviroment in EOS that will facilitate the achievement of **"Individual Sovereignty"** for all people of the world.
 
+**The Democracy Tech Proxy**  will vote for 30 Block producers that exemplify, pursue, and preserve all individual's rights for **Life**, **Liberty**, **Property**, and **Privacy**.
 
 ## Rating Criteria: ##  
 We will pursue "Liquid Democracy" and the candidate list will change as we will periodicaly evaluate all Block Producers that have strong combinations of the following characteristics:
