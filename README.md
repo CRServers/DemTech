@@ -65,5 +65,3 @@ After mastering BitShares and Steem usage, I gained a lot of respect and admirat
 I'm a pasionate advocate and reader of Libertarian Philosophy and Austrian Economics.
 
 I was born and live in Costa Rica and remain active in the local and international Blockchain communities.
-
-For more information about me, check my Steemit blog at: https://steemit.com/@cryptohead
