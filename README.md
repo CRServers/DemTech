@@ -3,40 +3,41 @@
 
 
 ## Philosophy: ##
-Blockchain Technology and programable peer-to-peer networks like EOS make trust in political and third-party intermediation unnecessary.  
+Blockchain Technology and programmable peer-to-peer networks like EOS make trust in political and third-party intermediation unnecessary.  
 
-We now have the oportunity create the enviroment and code in EOS that will facilitate the achievement of **"Individual Sovereignty"** for all people of the world.
+We now have the opportunity  to create the environment and code in EOS that will facilitate the achievement of **"Individual Sovereignty"** for all people of the world.
 
-**The Democracy Tech Proxy**  will vote for 30 Block producers that exemplify, pursue, and preserve all individual's rights for **Life**, **Liberty**, **Property**, and **Privacy**.
+**The Democracy Tech Proxy**  will vote for 30 Block producers that pursue all individual's rights for **Life**, **Liberty**, **Property**, and **Privacy**.
+
+We will pursue "Dynamic Democracy" and the candidate list will change as we periodically evaluate all Block Producers that have strong combinations of the following criteria.
 
 ## Rating Criteria: ##  
-We will pursue "Liquid Democracy" and the candidate list will change as we will periodicaly evaluate all Block Producers that have strong combinations of the following characteristics:
 
 **- Independence**   
-	Self-Funded, No political or third party involvement. 
+	Self-Funded, or third party involvement. 
 
 **- GeoPolitical Diversity**  
-	Balanced geographical and political diversity among all 30 candidates.
+	Balanced geographical and political diversity.
 
 **- Transparency**    
- 	Disclosure of ownership, Disclosure of destination of rewards earned. Complete bp.json
+ 	 Disclosure of Ownership & Use of Rewards. Complete bp.json
 
 **- Infrastructure Control & Resilience**   
-	Direct physical access and management of network's infrastructure in technology-friendly juristictions
+	Physical access and management of infrastructure.
 
 **- EOS Software Testing & Enhancement**  
 	Participation in Testnets, Debuging, Improvements
 	
 **- Democracy Tech Dapp Development and Promotion**  
-	Eg. Government Transparency & Honesty, Private Voting, Community Organization, Peer-to-peer Interation,
+	Eg. Government Transparency, Private Voting, Community Organization, Peer-to-peer Interation,
 	Censored-resistant Media,  Surveillance-resistance, Identity & Data Sovereignty, Privacy Enhancement.    
 
 **-  Community Engagement**  
- 	Promotes education and adoption of the EOS network guided by the above principles. 
+ 	Education and promotion of the EOS network. 
 	eg. Talks, Chats, Hackatons, Conferences, Seminars, Developer Spaces & Retreats, etc.)
 	
 **- Compliance**  
-Compliance with Block Producer requirements. Agreement with the established EOS constitution
+Block Producer Requirements. Agreement with EOS constitution.
 	
 
 ## Background: ##
