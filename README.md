@@ -41,25 +41,25 @@ Compliance with Block Producer requirements. Agreement with the established EOS 
 	
 
 ## Background: ##
-I Graduated from Tulane University in 1973 with degrees in Mechanical Engineering and Philosophy.
+I graduated from Tulane University in 1973 with degrees in Mechanical Engineering and Philosophy.
 
-While studying Engineering, I got introduced to computer programing using Fortran IV in IBM frameworks. 
+While studying Engineering, I got introduced to computer programing using Fortran IV in the school's IBM mainframes. 
 This is where my passion for studying and applying computer technology started and persists until now. 
 
-During those years at Tulane I built my own Ham Radio rig to communicate with family and friends at home. That was my first experience with descentralized communications networks.
+During those years at Tulane I built my own Ham Radio rig to communicate with family and friends at home. That was my first experience with descentralized communications networks, way before the invention of the Internet.
 
 In 1987 I established a software development company: Sistemas Edenia Intenacional. http://www.edenia.com and programmed business software in dBase and Clipper for 13 years.
 
-Due to the Y2K problem and seeing the Internet phenomenom rising, we switched our company's focus exclusively to Internet in 1995 when our first domain edenia.com was registered.
+Due to the Y2K problem and seeing the Internet phenomenom rising, we switched the company's focus exclusively to Internet. Our first registered Internet domain edenia.com marks the year as 1995.
 
-We have been in the Internet Hosting and Web development business ever since providing hardware infrastruture and programing to customers worldwide.
+We have been in the Internet hosting and development business ever since then providing hardware, programing, maintenance, and support to our customers worldwide.
 
-In early 2013, I discovered Bitcoin. It was another "this is going to change the world" moment and my enthusiams grew to same level as when I understood the Internet. Being and Internet company, we promptly adopted "Internet Money" as a form of payment for our services.
+In early 2013, I discovered Bitcoin. It was another "this is going to change the world" moment and my enthusiams grew to same levels as when I finaly understood the Internet. Being an Internet company, we promptly adopted "Internet Money" as a form of payment for our services.
 
-We are now running and manteining several BTC full nodes, DASH Masternodes, Stellar, Gricoin and ZenCash nodes for customers and ourselves.
+We are now running and maintaining several BTC full nodes, DASH Masternodes, Stellar, Gricoin, and ZenCash nodes for customers and ourselves.
 I ran a Steem witness for over 3 months starting in 2016. If curious, see my Steem blog to discover what happened.
 
-I discovered Bitshares in 2015 after the M.T.Gox Exchange collapse and started using the platform.
+I encountered Bitshares in 2015 after the M.T.Gox Exchange collapse and started using the platform ever since.
 
 After mastering BitShares and Steem usage, I gained a lot of respect and admiration for Dan Larimer as a software engineer and share most of his philosophical postures. Thus my enthusiam for Dan's latest creation: The EOS Operating System.
 
