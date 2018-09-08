@@ -59,9 +59,9 @@ In early 2013, I discovered Bitcoin. It was another "this is going to change the
 We are now running and maintaining several BTC full nodes, DASH Masternodes, Stellar, Gricoin, and ZenCash nodes for customers and ourselves.
 I ran a Steem witness for over 3 months starting in 2016. If curious, see my Steem blog to discover what happened.
 
-I encountered Bitshares in 2015 after the M.T.Gox Exchange collapse and started using the platform ever since.
+I encountered Bitshares in 2015 after the M.T.Gox Exchange collapse and have been using the platform ever since.
 
-After mastering BitShares and Steem usage, I gained a lot of respect and admiration for Dan Larimer as a software engineer and share most of his philosophical postures. Thus my enthusiam for Dan's latest creation: The EOS Operating System.
+After mastering BitShares and Steem usage, I gained a lot of respect and admiration for Dan Larimer as a software engineer and share most of his philosophical postures. Thus my enthusiam for Dan's latest creation: **The EOS Operating System**.
 
 I'm a pasionate advocate and reader of Libertarian Philosophy and Austrian Economics.
 
