@@ -3,7 +3,7 @@
 
 
 ## Philosophy: ##
-Blockchain Technology and programable peer-to-peer networks like EOS make trust in political and third-party intermediation unnecessary.
+Blockchain Technology and programable peer-to-peer networks like EOS make trust in political and third-party intermediation unnecessary. It is now our oportunity to create the infrastructure and code to change the world.
 
 **The Democracy Tech Proxy**  will vote for 30 Block producers that exemplify, pursue, and preserve all individual's rights for **Life**, **Liberty**, **Property**, and **Privacy**.
 
