@@ -13,7 +13,7 @@ We will constantly look for Block Producers that are determined to provide the *
 
 
 ## Rating Criteria: ##  
-We will constanly look and evaluate all Block Producers that have a strong combination of the following characteristics:
+We will pursue "Liquid Democracy" and the candidate list will change as we will periodicaly evaluate all Block Producers that have strong combinations of the following characteristics:
 
 **- Independence**   
 	Self-Funded, No third party involvement. 
@@ -35,6 +35,9 @@ We will constanly look and evaluate all Block Producers that have a strong combi
 **-  Community Engagement**  
  	Promotes education and adoption of the EOS network guided by the above principles. 
 	eg. Talks, Chats, Hackatons, Conferences, Seminars, Developer Spaces & Retreats, etc.)
+	
+**- Compliance**  
+Compliance with Block Producer requirements. Agreement with the established EOS constitution
 	
 
 ## Background: ##
@@ -62,8 +65,6 @@ After mastering BitShares and Steem usage, I gained a lot of respect and admirat
 
 I'm a pasionate advocate and reader of Libertarian Philosophy and Austrian Economics.
 
-I was born and live in Costa Rica and remain very active in the local Costa Rican crypto community.
+I was born and live in Costa Rica and remain active in the local and international Blockchain communities.
 
 For more information about me, check my Steemit blog at: https://steemit.com/@cryptohead
-
-Steemit: @cryptohead
