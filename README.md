@@ -27,8 +27,7 @@ We will pursue "Liquid Democracy" and the candidate list will change as we will 
 **- EOS Software Testing & Enhancement**  
 	Participation in Testnets, Debuging, Improvements
 	
-**- Democrasy Tech Dapp Development**  
-	Develop and/or promote **Democracy Tech Dapps**  
+**- Democracy Tech Dapp Development and Promotion**  
 	Eg. Government Transparency & Honesty, Private Voting, Community Organization, Peer-to-peer Interation,
 	Censored-resistant Media,  Surveillance-resistance, Identity & Data Sovereignty, Privacy Enhancement.    
 
