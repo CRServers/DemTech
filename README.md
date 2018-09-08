@@ -13,13 +13,13 @@ We now have the oportunity create the enviroment and code in EOS that will facil
 We will pursue "Liquid Democracy" and the candidate list will change as we will periodicaly evaluate all Block Producers that have strong combinations of the following characteristics:
 
 **- Independence**   
-	Self-Funded, No third party involvement. 
+	Self-Funded, No political or third party involvement. 
 
 **- GeoPolitical Diversity**  
-	Balanced geographical and political diversity among 30 candidates.
+	Balanced geographical and political diversity among all 30 candidates.
 
 **- Transparency**    
- 	Disclosure of ownership, Disclosure of destination of rewards earned.
+ 	Disclosure of ownership, Disclosure of destination of rewards earned. Complete bp.json
 
 **- Infrastructure Control & Resilience**   
 	Direct physical access and management of network's infrastructure in technology-friendly juristictions
