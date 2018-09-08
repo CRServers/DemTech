@@ -25,7 +25,7 @@ We will pursue "Liquid Democracy" and the candidate list will change as we will 
 **- Infrastructure Control & Resilience**   
 	Direct physical access and management of network's infrastructure in technology-friendly juristictions
 
-**- Software Testing & Enhancement**  
+**- EOS Software Testing & Enhancement**  
 	Participation in Testnets, Debuging, Improvements
 	
 **- DemTech Dapp Development**  
