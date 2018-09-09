@@ -1,5 +1,5 @@
 # Democracy Tech EOS Proxy
-**"Enpowering the individual beyond trust"**
+**"Empowering the individual beyond trust"**
 
 
 ## Philosophy: ##
