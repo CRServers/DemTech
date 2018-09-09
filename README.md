@@ -9,7 +9,7 @@ We now have the opportunity  to create the environment and code in EOS that will
 
 **The Democracy Tech Proxy**  will vote for 30 Block producers that pursue all individual's rights for **Life**, **Liberty**, **Property**, and **Privacy**.
 
-We will pursue "Dynamic Democracy" and the candidate list will change as we periodically evaluate all Block Producers that have strong combinations of the following criteria.
+We will pursue "Liquid Democracy" and the candidate list will change as we periodically evaluate all Block Producers that have strong combinations of the following criteria.
 
 ## Rating Criteria: ##  
 
