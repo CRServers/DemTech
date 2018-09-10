@@ -54,7 +54,7 @@ We beleive it would be healthy for the EOS network to have more dynamic up/down 
 This is what we call "Fluid Positioning". A new concept we are incorporating into the Criteria used by the DemTech Proxy.
 
 We have concluded that a 20/60/20 ratio weighted to the middle group would stimulate "Fluid Positioning" the most, but this could change with experience.
-In numbers that slip would be: 
+In numbers the split would be: 
 1. Top 21 BP's get 20% = 6 BP's 
 2. Standby BP's get 60% = 18 BP's
 3. Non-Paid BP's get 20% = 6 BP's
