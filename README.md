@@ -38,10 +38,11 @@ We will pursue "Liquid Democracy" and the candidate list will change as we perio
 Block Producer Requirements. Agreement with EOS constitution.
 
 ## The Fluid Positioning Concept ##
-We can divide the EOS BP's into 3 distintive groups: 
-1 - Top 21 BPs 		- Are actually producing the blocks and getting rewarded for it.  
+We can divide the EOS BP's into 3 distintive groups:
+ 
+1 - Top 21 BPs		- Are actually producing the blocks and getting rewarded for it.  
 2 - Standby BPs 	- Do not produce blocks but get rewarded.  
-3 - Non-Paid BPs 	- Do not produce blocks and don't get rewarded. 
+3 - Non-Paid BPs	- Do not produce blocks and don't get rewarded. 
 
 We beleive it would be healthy for the EOS network have more dynamic flow of BP's up/down from these three groups.
 If this flow of positions could be increased, it would be beneficial for all BP's involved.
