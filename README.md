@@ -40,23 +40,21 @@ Block Producer Requirements. Agreement with EOS constitution.
 ## The Fluid Positioning Concept: ##
 We can divide the EOS BP's into 3 distintive groups:
  
-1.  Top 21 BPs		- Are actually producing the blocks and getting rewarded for it.  
-2.  Standby BPs 	- Do not produce blocks but get rewarded.  
+1. Top 21 BPs		- Are actually producing the blocks and getting rewarded for it.  
+2. Standby BPs 	- Do not produce blocks but get rewarded.  
 3. Non-Paid BPs	- Do not produce blocks and don't get rewarded. 
 
 We beleive it would be healthy for the EOS network have more dynamic flow of BP's up/down from these three groups.
 If this flow of positions could be increased, it would be beneficial for all BP's involved.  
 
-1- All Standby BPs would get a higher probability to get a chance to actually perform their job, and gain necessary experience and readyness. 
-
-2- Active producing BPs can gain needed time "on the pits" for maintenance, hardware & software upgrades, cleaning & re-seating componets, etc.
+1. All Standby BPs would get a higher probability to get a chance to actually perform their job, and gain necessary experience and readyness. 
+2. Active producing BPs can gain needed time "on the pits" for maintenance, hardware & software upgrades, cleaning & re-seating componets, etc.
 
 This is what we call "Fluid Positioning". A concept we will be incorporating into the Criteria used by the DemTech Proxy.
 We would balance the list with the formula 20-60-20. That is Top BP's get 20% = 6 BP's, Standby BP's get 60% = 18 BP's, and Non-Paid BP's get 20% = 6 BP's
 So those percentages of each group with strong combinations of the rest of the Criteria will be selected to the DemTech Proxy list.
 After calculations, we concluded that a 20/60/20 ratio weighted to the middle group would stimulate "Fluid Positioning" the most.
-
-This scheme would only be effective if the Proxy gets enough traction from the community token holders
+This scheme would only be effective if the DemTech Proxy gets enough traction from the community token holders
 	
 
 ## Background: ##
