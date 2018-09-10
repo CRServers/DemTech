@@ -49,7 +49,7 @@ We can divide the EOS BP's into 3 distintive groups:
 We beleive it would be healthy for the EOS network to have more dynamic up/down flow of BP's from these three groups, and that this movement would yield additional benefits for all BP's involved.
 
 1. All Standby BPs would get a higher probability to get a chance to actually perform their job, and gain necessary experience and readyness. 
-2. Active producing BPs can gain needed time "on the pits" for maintenance, hardware & software upgrades, cleaning & re-seating componets, etc.
+2. Active producing BPs can gain needed time "on the pits" for maintenance, hardware & software upgrades, cleaning & re-seating components, etc.
 
 This is what we call "Fluid Positioning". A simple concept we are incorporating into the mechanics used by the DemTech Proxy.
 
