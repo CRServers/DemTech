@@ -51,7 +51,7 @@ We beleive it would be healthy for the EOS network to have more dynamic up/down 
 1. All Standby BPs would get a higher probability to get a chance to actually perform their job, and gain necessary experience and readyness. 
 2. Active producing BPs can gain needed time "on the pits" for maintenance, hardware & software upgrades, cleaning & re-seating componets, etc.
 
-This is what we call "Fluid Positioning". A new concept we are incorporating into the Criteria used by the DemTech Proxy.
+This is what we call "Fluid Positioning". A simple concept we are incorporating into the mechanics used by the DemTech Proxy.
 
 We have concluded that a 20/60/20 ratio weighted to the middle group would stimulate "Fluid Positioning" the most, but this could change with experience.
 In numbers the split would be: 
@@ -63,7 +63,9 @@ So the selection procedure will be:
 1. Select BP's with strong combinations of the Criteria detailed above.
 2. Reduce the BPs list according to the 20/60/20 ratio explained above.
 
-Caveat: This scheme would only be effective if the DemTech Proxy gets enough traction from the community token holders otherwise the influence would be null.
+**Caveats:** 
+1. This scheme would only be effective if the DemTech Proxy gets enough traction from the community token holders otherwise the influence would be null.
+2. The list will have to be updated periodically so it can stimulate up/down flow of BPs.
 	
 
 ## Personal Background: ##
