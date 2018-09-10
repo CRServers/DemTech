@@ -48,6 +48,7 @@ We beleive it would be healthy for the EOS network have more dynamic flow of BP'
 If this flow of positions could be increased, it would be beneficial for all BP's involved.  
 
 1- All Standby BPs would get a higher probability to get a chance to actually perform their job, and gain necessary experience and readyness. 
+
 2- Active producing BPs can gain needed time "on the pits" for maintenance, hardware & software upgrades, cleaning & re-seating componets, etc.
 
 This is what we call "Fluid Positioning". A concept we will be incorporating into the Criteria used by the DemTech Proxy.
