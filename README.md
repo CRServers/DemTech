@@ -1,7 +1,6 @@
 # Democracy Tech EOS Proxy
 **"Empowering the individual beyond trust"**
 
-
 ## Philosophy: ##
 Blockchain Technology and programmable peer-to-peer networks like EOS make trust in political and third-party intermediation unnecessary.  
 
@@ -12,7 +11,6 @@ We now have the opportunity  to create the environment and code in EOS that will
 We will pursue "Liquid Democracy" and the candidate list will change as we periodically evaluate all Block Producers that have strong combinations of the following criteria.
 
 ## Rating Criteria: ##  
-
 **- Independence**   
 	Self-Funded, or third party involvement. 
 
@@ -40,7 +38,6 @@ We will pursue "Liquid Democracy" and the candidate list will change as we perio
 Block Producer Requirements. Agreement with EOS constitution.
 
 ## The Fluid Positioning Concept ##
-
 We can divide the EOS BP's into 3 distintive groups: 
 1 - Top 21 BPs 		- Are actually producing the blocks and getting rewarded for it.  
 2 - Standby BPs 	- Do not produce blocks but get rewarded.  
