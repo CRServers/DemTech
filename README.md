@@ -11,10 +11,10 @@ We now have the opportunity  to create the environment and code in EOS that will
 We will pursue "Liquid Democracy" and the candidate list will change as we periodically evaluate all Block Producers that have strong combinations of the following criteria.
 
 ## Rating Criteria: ##  
-- ** Independence**   
+**- Independence**   
 	Self-Funded, or third party involvement. 
 
-**- GeoPolitical Diversity**  
+-**- GeoPolitical Diversity**  
 	Balanced geographical and political diversity.
 
 **- Transparency**    
