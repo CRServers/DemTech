@@ -1,6 +1,7 @@
 # Democracy Tech EOS Proxy
 **"Empowering the individual beyond trust"**
 
+
 ## Philosophy: ##
 Blockchain Technology and programmable peer-to-peer networks like EOS make trust in political and third-party intermediation unnecessary.  
 
@@ -37,6 +38,7 @@ We will pursue "Liquid Democracy" and the candidate list will change as we perio
 **- Compliance**  
 Block Producer Requirements. Agreement with EOS constitution.
 
+
 ## The Fluid Positioning Concept: ##
 We can divide the EOS BP's into 3 distintive groups:
  
@@ -50,13 +52,15 @@ We beleive it would be healthy for the EOS network to have more dynamic up/down 
 2. Active producing BPs can gain needed time "on the pits" for maintenance, hardware & software upgrades, cleaning & re-seating componets, etc.
 
 This is what we call "Fluid Positioning". A concept we will be incorporating into the Criteria used by the DemTech Proxy.
-We would balance the list with the formula 20-60-20. That is Top BP's get 20% = 6 BP's, Standby BP's get 60% = 18 BP's, and Non-Paid BP's get 20% = 6 BP's
+
+We would balance the list with a20/60/20 ratio. 
+That is Top BP's get 20% = 6 BP's, Standby BP's get 60% = 18 BP's, and Non-Paid BP's get 20% = 6 BP's
 So those percentages of each group with strong combinations of the rest of the Criteria will be selected to the DemTech Proxy list.
-After calculations, we concluded that a 20/60/20 ratio weighted to the middle group would stimulate "Fluid Positioning" the most.
+We have concluded that a 20/60/20 ratio weighted to the middle group would stimulate "Fluid Positioning" the most, but this could change with experience.
 This scheme would only be effective if the DemTech Proxy gets enough traction from the community token holders
 	
 
-## Background: ##
+## Personal Background: ##
 I graduated from Tulane University in 1973 with degrees in Mechanical Engineering and Philosophy.
 
 While studying Engineering, I got introduced to computer programing using Fortran IV in the school's IBM mainframes. 
