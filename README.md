@@ -41,9 +41,9 @@ Block Producer Requirements. Agreement with EOS constitution.
 
 ## The Fluid Positioning Concept ##
 
-We can divide the EOS BP's into 3 distintive groups:
-1 - Top 21 BPs 		- Are actually producing the blocks and getting rewarded for it.
-2 - Standby BPs 	- Do not produce blocks but get rewarded.
+We can divide the EOS BP's into 3 distintive groups: 
+1 - Top 21 BPs 		- Are actually producing the blocks and getting rewarded for it.  
+2 - Standby BPs 	- Do not produce blocks but get rewarded.  
 3 - Non-Paid BPs 	- Do not produce blocks and don't get rewarded. 
 
 We beleive it would be healthy for the EOS network have more dynamic flow of BP's up/down from these three groups.
