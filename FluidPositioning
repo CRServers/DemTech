@@ -1,14 +1,20 @@
-## The Fluid Positioning Concept: ##
-We can divide the EOS BP's into 3 distintive groups:
- 
-1. Top 21 BPs	- Are actually producing the blocks and getting rewarded for it.  
-2. Standby BPs 	- Do not produce blocks but get rewarded.  
-3. Non-Paid BPs	- Do not produce blocks and don't get rewarded. 
+## Fluid Positioning ##
+A concept for selecting BP's by EOS Proxies 
 
-We beleive it would be healthy for the EOS network to have more dynamic up/down flow of BP's from these three groups, and that this movement would yield additional benefits for all BP's involved.
+A big portion of the EOS community beleives that a stonger flow of BP's from the top 21 positions is beneficial for the EOS ecosystem and the BPs themselves.
 
+The immediate benefits could be enumerated as:
 1. All Standby BPs would get a higher probability to get a chance to actually perform their job, and gain necessary experience and readyness. 
 2. Active producing BPs can gain needed time "on the pits" for maintenance, hardware & software upgrades, cleaning & re-seating components, etc.
+3. 
+
+This flowing process of BP's is actually happening right now "naturally" as big whales and token holders are constantly shifting their wait causing BP repositioning, but is there a way for Voting Proxies to stimulate this flow?
+We have deviced a simple ratio-driven mechanism for EOS Voting Proxies that could stimulate a more dynamic up/down flow of BPs.  
+
+EOS EOS BP's are divide into 3 distintive groups:
+1 - Top 21 BPs 		- Actually producing the blocks and getting rewarded for it.
+2 - Standby BPs 	- Do not produce blocks but get rewarded.
+3 - Non-Paid BPs 	- Do not produce blocks and don't get rewarded. 
 
 This is what we call "Fluid Positioning". A simple concept we are incorporating into the mechanics used by the DemTech Proxy.
 
