@@ -60,8 +60,8 @@ In numbers the split would be:
 3. Non-Paid BP's get 20% = 6 BP's
 
 So the selection procedure will be:
-1. Select BP's with strong combinations of the Criteria detailed above.
-2. Reduce the BPs list according to the 20/60/20 ratio explained above.
+1. Select BP's with strong combinations of the Criteria detailed above (40+ BPs).
+2. Adjust and reduce the BPs list according to the "Fluid Positioning" ratio explained above.
 
 **Caveats:** 
 1. This scheme would only be effective if the DemTech Proxy gets enough traction from the community token holders otherwise the influence would be null.
