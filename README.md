@@ -32,11 +32,11 @@ We will pursue "Liquid Democracy" and the candidate list will change as we perio
 	Censored-resistant Media,  Surveillance-resistance, Identity & Data Sovereignty, Privacy Enhancement.    
 
 **-  Community Engagement**  
- 	Education and promotion of the EOS network. 
+ 	Education and promotion of the EOS network.  
 	eg. Talks, Chats, Hackatons, Conferences, Seminars, Developer Spaces & Retreats, etc.)
 	
 **- Compliance**  
-Block Producer Requirements. Agreement with EOS constitution. Code of Conduct. Complete bp.json
+Block Producer Requirements. Agreement with EOS constitution. Code of Conduct. Complete bp.json  
 Note: Compliance is required to be considered for inclusion in the proxy list. 
 
 
