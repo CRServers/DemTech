@@ -12,6 +12,10 @@ We now have the opportunity  to create the environment and code in EOS that will
 We will pursue "Liquid Democracy" and the candidate list will change as we periodically evaluate all Block Producers that have strong combinations of the following criteria.
 
 ## Rating Criteria: ##  
+**- Compliance**  
+Block Producer Requirements. Agreement with EOS constitution. Code of Conduct. Complete bp.json  
+**Complete compliance is required to be considered for inclusion in the proxy list.** 
+
 **- Independence**   
 	Self-Funded, or third party involvement. 
 
@@ -35,9 +39,7 @@ We will pursue "Liquid Democracy" and the candidate list will change as we perio
  	Education and promotion of the EOS network.  
 	eg. Talks, Chats, Hackatons, Conferences, Seminars, Developer Spaces & Retreats, etc.)
 	
-**- Compliance**  
-Block Producer Requirements. Agreement with EOS constitution. Code of Conduct. Complete bp.json  
-Complete compliance is required to be considered for inclusion in the proxy list. 
+
 
 
 ## The Fluid Positioning Concept: ##
@@ -53,10 +55,10 @@ We beleive it would be healthy for the EOS network to have more dynamic up/down 
 2. Active producing BPs can gain needed time "on the pits" for maintenance, hardware & software upgrades, cleaning & re-seating components, etc.
 
 This is what we call "Fluid Positioning". A simple ratio concept we are incorporating into the mechanics used by the DemTech Proxy.
-For this to work, we have to apply an upward pressure from the lower BP groups to the Top21 so that they will "pop-down" and give other BP's a chance to perform as actual producers.
-By using a numbers ratio we beleive such pressure could be applied and thus cause the a steady flow of BP's from the top positions down.  
+For this to work, we have to apply an upward pressure from the lower BP groups to the Top21 so that they will "pop-down" and give other BP's a chance to perform as actual producers.  
+By using a bottom-heavy numbers ratio we beleive such pressure could be applied and thus cause a steady flow of BP's from the top positions down.  
 
-We have concluded that a 10/60/30 ratio weighted to the middle group would stimulate "Fluid Positioning" the most, but this will  change with experience.
+We have concluded that a 10/60/30 ratio weighted to the middle group would stimulate "Fluid Positioning" the most. This ratio could be adjusted once experience has been aquired.
 In numbers the split would be: 
 1. Top 21 BP's get 10% = 3 BP's 
 2. Standby BP's get 60% = 18 BP's
