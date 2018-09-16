@@ -95,6 +95,6 @@ I encountered Bitshares in 2015 after the M.T.Gox Exchange collapse and have bee
 
 After mastering BitShares and Steem usage, I gained a lot of respect and admiration for Dan Larimer as a software engineer and share a similar philosophical posture. Thus my enthusiam for Dan's latest creation: **The EOS Operating System**.
 
-I'm a pasionate advocate and reader of Libertarian Philosophy and Austrian Economics.
+I'm a pasionate advocate and reader of Libertarian Political Philosophy and Austrian Economics.
 
 I was born and live in Costa Rica and remain active in the local and international Blockchain communities.
