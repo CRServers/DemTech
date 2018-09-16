@@ -17,13 +17,13 @@ Block Producer Requirements. Agreement with EOS constitution. Code of Conduct. C
 **Complete compliance is required to be considered for inclusion in the proxy list.** 
 
 **- Independence**   
-	Self-Funded, or third party involvement. 
+	Self-Funded, no third party liabilities. 
 
 **- GeoPolitical Diversity**  
 	Balanced geographical and political diversity.
 
 **- Transparency**    
- 	 Disclosure of Ownership & Use of Rewards. Complete bp.json
+ 	 Disclosure of Ownership & Use of Rewards. 
 
 **- Infrastructure Control & Resilience**   
 	Physical access and management of infrastructure.
@@ -38,8 +38,6 @@ Block Producer Requirements. Agreement with EOS constitution. Code of Conduct. C
 **-  Community Engagement**  
  	Education and promotion of the EOS network.  
 	eg. Talks, Chats, Hackatons, Conferences, Seminars, Developer Spaces & Retreats, etc.)
-	
-
 
 
 ## The Fluid Positioning Concept: ##
@@ -49,24 +47,25 @@ We can divide the EOS BP's into 3 distintive groups:
 2. Standby BPs 	- Do not produce blocks but get rewarded.  
 3. Non-Paid BPs	- Do not produce blocks and don't get rewarded. 
 
-We beleive it would be healthy for the EOS network to have more dynamic up/down flow of BP's from these three groups, and that this movement would yield additional benefits for all BP's involved.
+We beleive it would be healthy for the EOS network to have a more dynamic up/down flow of BP's from these three groups, and that this movement would yield additional benefits for all BP's involved.
 
 1. All Standby BPs would get a higher probability to get a chance to actually perform their job, and gain necessary experience and readyness. 
 2. Active producing BPs can gain needed time "on the pits" for maintenance, hardware & software upgrades, cleaning & re-seating components, etc.
 
-This is what we call "Fluid Positioning". A simple ratio concept we are incorporating into the mechanics used by the DemTech Proxy.
+This is what we call "Fluid Positioning". A simple ratio concept we are incorporating into the mechanics used by the DemTech Proxy. 
+
 For this to work, we have to apply an upward pressure from the lower BP groups to the Top21 so that they will "pop-down" and give other BP's a chance to perform as actual producers.  
 By using a bottom-heavy numbers ratio we beleive such pressure could be applied and thus cause a steady flow of BP's from the top positions down.  
 
-We have concluded that a 10/60/30 ratio weighted to the middle group would stimulate "Fluid Positioning" the most. This ratio could be adjusted once experience has been aquired.
+We have initially concluded that a 10/60/30 ratio weighted to the middle group would stimulate "Fluid Positioning" the most. This ratio could be adjusted once experience has been aquired.  
 In numbers the split would be: 
 1. Top 21 BP's get 10% = 3 BP's 
 2. Standby BP's get 60% = 18 BP's
 3. Non-Paid BP's get 30% = 9 BP's
 
 So the selection procedure will be:
-1. Select BP's with strong combinations of the Criteria detailed above (40+ BPs).
-2. Reduce the BPs list to 30 according to the "Fluid Positioning" ratio explained above.
+1. Select 40+ BP's with strong combinations of the Criteria detailed above.
+2. Reduce the BPs list to 30 according to the "Fluid Positioning" ratio chosen.
 
 **Caveats:** 
 1. This scheme would only be effective if the DemTech Proxy gets enough traction from the community token holders otherwise the influence would be null.
