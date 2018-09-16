@@ -37,7 +37,7 @@ We will pursue "Liquid Democracy" and the candidate list will change as we perio
 	
 **- Compliance**  
 Block Producer Requirements. Agreement with EOS constitution. Code of Conduct. Complete bp.json  
-Note: Compliance is required to be considered for inclusion in the proxy list. 
+Complete compliance is required to be considered for inclusion in the proxy list. 
 
 
 ## The Fluid Positioning Concept: ##
